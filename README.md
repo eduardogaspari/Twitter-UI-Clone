@@ -15,6 +15,14 @@ https://edu-twitter-ui-clone.vercel.app/
 - [x] Styled Components
 - [x] TypeScript
 
+
+## Project Preview
+
+<img  src="https://user-images.githubusercontent.com/88467167/167218831-acb1a125-0ef3-4de9-a87b-3c15400a2a93.png" />
+
+
+
+
 ## Starting Dev Environment
 
 1. Run `npm install` or `yarn install`.<br />
